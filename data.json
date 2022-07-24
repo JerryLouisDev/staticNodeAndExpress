@@ -1,0 +1,56 @@
+{
+    "projects" : [
+        {
+            "id" : "0",
+            "project_name" : "Random Quote Generator ",
+            "description" : "This generator  provides random inspirational quotes from rappers ",
+            "technologies" : ["JavaScript", "CSS", "HTML"],
+            "live_link" : "https://random-quotes-2022.netlify.app",
+            "github_link" : "https://github.com/JerryLouisDev/RandomQuoteGen",
+            "image_urls" : ["public/images/randomQuote.png",
+                             "public/images/randomQuotePTwo.png"]
+        },
+        {
+            "id" : "1",
+            "project_name" : "Student Directory",
+            "description" : "This project is displays students listed in our directory",
+            "technologies" : ["JavaScript", "CSS", "HTML"],
+            "live_link" : "https://student-directory-2022.netlify.app",
+            "github_link" : "https://github.com/JerryLouisDev/dataPaginationAndFiltering",
+            "image_urls" : ["public/images/studentDirectory.png",
+                             "public/images/studentDirectoryPTwo.png"]
+        },
+        {
+            "id" : "2",
+            "project_name" : "API Employee Directory",
+            "description" : "This project displays employees from a start up and provides more information on a click of the person",
+            "technologies" : ["CSS", "HTML", "JavaScript"],
+            "live_link" : "api-employee-directory-2022.netlify.app",
+            "github_link" : "https://github.com/JerryLouisDev/publicAPIRequests",
+            "image_urls" : ["public/images/pubAPI.png",
+                            "public/images/pubAPIp2.png"]
+        },
+        {
+            "id" : "3",
+            "project_name" : "Interactive Form",
+            "description" : "This is  a form for a full  stack ",
+            "technologies" : ["HTML", "CSS", "JavaScript"],
+            "live_link" : "full-stack-form-2022.netlify.app",
+            "github_link" : "https://github.com/JerryLouisDev/interactiveForm",
+            "image_urls" : ["public/images/fullStackForm.png",
+                            "public/images/fullStackFormP2.png"]
+        },
+        {
+            "id" : "4",
+            "project_name" : "Phrase Hunter",
+            "description" : "This project presents blank phrases where you have to guess a letter, if you select the right letter your letter will appear. But if you guess the wrong letter you lose a life and you have up to five lives until the game is over!",
+            "technologies" : ["JavaScript", "CSS", "HTML"],
+            "live_link" : "phrase-hunter-2022.netlify.app",
+            "github_link" : "https://github.com/JerryLouisDev/oopGameShowApp",
+            "image_urls" : ["public/images/phraseHunter.png",
+                            "public/images/phraseHunterPTwo.png"]
+        }
+
+    ]
+
+}
