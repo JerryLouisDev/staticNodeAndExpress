@@ -3,52 +3,52 @@
         {
             "id" : "0",
             "project_name" : "Random Quote Generator ",
-            "description" : "This generator  provides random inspirational quotes from rappers ",
+            "description" : "This project uses vanilla javascript to show the usage eventlisteners to show you a random quote I have generated for you to read. The background behind these quotes are to motivate you to continue pushing because your dreams are aligned for you to grab! ",
             "technologies" : ["JavaScript", "CSS", "HTML"],
             "live_link" : "https://random-quotes-2022.netlify.app",
             "github_link" : "https://github.com/JerryLouisDev/RandomQuoteGen",
-            "image_urls" : ["public/images/randomQuote.png",
-                             "public/images/randomQuotePTwo.png"]
+            "image_urls" : ["/static/images/randomQuote.png",
+                             "https://media.giphy.com/media/utStKZ3oxu2jJq7tKG/giphy.gif"]
         },
         {
             "id" : "1",
             "project_name" : "Student Directory",
-            "description" : "This project is displays students listed in our directory",
+            "description" : "This project is displays students listed in our directory that we have created and displaying for users to browse through the pages to find a student and some useful information!",
             "technologies" : ["JavaScript", "CSS", "HTML"],
             "live_link" : "https://student-directory-2022.netlify.app",
             "github_link" : "https://github.com/JerryLouisDev/dataPaginationAndFiltering",
-            "image_urls" : ["public/images/studentDirectory.png",
-                             "public/images/studentDirectoryPTwo.png"]
+            "image_urls" : ["/static/images/studentDirectoryPTwo.png",
+                             "https://media.giphy.com/media/cM8oVC7hugZGOKVx9q/giphy.gif"]
         },
         {
             "id" : "2",
             "project_name" : "API Employee Directory",
-            "description" : "This project displays employees from a start up and provides more information on a click of the person",
+            "description" : "This project displays employees from a start up and provides more information on a click of the person. This was achieved by using a open source API, and using JSON to better grab the important information that we want the users to see!",
             "technologies" : ["CSS", "HTML", "JavaScript"],
-            "live_link" : "api-employee-directory-2022.netlify.app",
+            "live_link" : "https://api-employee-directory-2022.netlify.app",
             "github_link" : "https://github.com/JerryLouisDev/publicAPIRequests",
-            "image_urls" : ["public/images/pubAPI.png",
-                            "public/images/pubAPIp2.png"]
+            "image_urls" : ["/static/images/pubAPI.png",
+                            "https://media.giphy.com/media/IPZETmdwfaaVvQSUgs/giphy.gif"]
         },
         {
             "id" : "3",
             "project_name" : "Interactive Form",
-            "description" : "This is  a form for a full  stack ",
+            "description" : "This is  a form for a developer convention to enter their names and a shirt they would want and courses they want to attend! Along with a responsive source of payment they want to use! ",
             "technologies" : ["HTML", "CSS", "JavaScript"],
-            "live_link" : "full-stack-form-2022.netlify.app",
+            "live_link" : "https://full-stack-form-2022.netlify.app",
             "github_link" : "https://github.com/JerryLouisDev/interactiveForm",
-            "image_urls" : ["public/images/fullStackForm.png",
-                            "public/images/fullStackFormP2.png"]
+            "image_urls" : ["/static/images/fullStackForm.png",
+                            "https://media.giphy.com/media/3nNOBexCeDS1XAqcWr/giphy.gif"]
         },
         {
             "id" : "4",
             "project_name" : "Phrase Hunter",
             "description" : "This project presents blank phrases where you have to guess a letter, if you select the right letter your letter will appear. But if you guess the wrong letter you lose a life and you have up to five lives until the game is over!",
             "technologies" : ["JavaScript", "CSS", "HTML"],
-            "live_link" : "phrase-hunter-2022.netlify.app",
+            "live_link" : "https://phrase-hunter-2022.netlify.app",
             "github_link" : "https://github.com/JerryLouisDev/oopGameShowApp",
-            "image_urls" : ["public/images/phraseHunter.png",
-                            "public/images/phraseHunterPTwo.png"]
+            "image_urls" : ["/static/images/phraseHunter.png",
+                            "https://media.giphy.com/media/SfRE4uOOBJM42Vtc0j/giphy.gif"]
         }
 
     ]
