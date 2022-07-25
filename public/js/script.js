@@ -1,9 +1,6 @@
 
 'use strict';
 
-/**
- * Handle mobile menu functionality to hide/reveal sidebar on mobile layouts
- */
 const body = document.querySelector('body');
 let headerBtnClicked = false;
 

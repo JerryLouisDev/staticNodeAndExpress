@@ -4,10 +4,8 @@ block content
 
   article.portfolio-intro
 
-    //- Replace with your own heading like 'My Portfolio', or 'Hey, Potential Employers', or 'Let's make the web great together!' 
     h1 Take a look 👀 at my Work👨🏿‍💻
 
-    //- Replace with a description for your portfolio, what this project is, it's purpose, what it's supposed to accomplish, etc. 
     p My Portfolio will show you the work I have done while achieving the Treehouse Full-Stack Techdegree. From writing my first Hello World to a blank HTML file. I have heard alot of vanilla javascript to learning about express and more! Feel free to click on the images to lead you to where you can get more information about the project and interactive with it! Thank you!
 
 
@@ -23,15 +21,5 @@ block content
                 h5=project.project_name
                 img.thumbnail(src=''+project.image_urls[0], alt='Screenshot of project', style='width:100%;height:100%')
 
-      //- Use the Pug `each` iterator to loop over the projects in your data file  
-      
-        //- Use the example Pug code below and interpolated template literals as needed to dynamically generate:
-          //- The paths in the link's href and img's src attributes
-          //- The text 'Thumbnail' interpolated with the project title for the img's alt attribute
-          //- The project title for the h5 element's text
 
-        .cell
-          a(href='#')
-            img.thumbnail(src='https://placehold.it/550x550', alt='')
-            h5 My Site
 
